@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-weight: 900;
+    letter-spacing: 0.3rem;
+    font-size: 48px;
+}
